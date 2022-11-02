@@ -21,13 +21,14 @@ In-direct Instruction and group work
 
 ### Teaching Activities 1 - Product Sense 
 - "How to find problems" 
+- Logic Models 
 - Explain product sense 
 
 #### Check for Understanding 
 - Explain the main components of a logic model 
 - What are the characteristics of good metrics 
 
-### Teaching Activities 2 - Modeling  
+### Teaching Activities 2 - OPM  (optional)
 - "How to document a new product" 
 - Show how to use an object process model (OPM)
 - Write the statement from the object process model 
