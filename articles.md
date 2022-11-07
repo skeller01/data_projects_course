@@ -1,55 +1,58 @@
-https://engineering.linkedin.com/blog/2022/one-stop-mlops-portal-at-linkedin
-https://www.professionalsecurity.co.uk/news/interviews/ai-governance-gap/
-https://scientistemily.substack.com/p/scaling-data-teams
-https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/
-https://eng.lyft.com/trino-open-source-infrastructure-upgrading-at-lyft-83f26b099fa
-https://www.oreilly.com/radar/closer-to-agi/
-https://mitsloan.mit.edu/ideas-made-to-matter/why-its-time-data-centric-artificial-intelligence
-https://medium.com/compass-true-north/framing-feature-engineering-for-machine-learning-a-generative-model-of-home-likelihood-to-sell-f96f21d6d6d0
-https://dataproducts.substack.com/p/the-existential-threat-of-data-quality
-https://eugeneyan.com/writing/design-patterns/
-https://www.economist.com/interactive/briefing/2022/06/11/huge-foundation-models-are-turbo-charging-ai-progress
-https://engineering.linkedin.com/blog/2022/towards-data-quality-management-at-linkedin
-https://locallyoptimistic.com/post/building-more-effective-data-teams-using-the-jtbd-framework
-https://medium.com/airbnb-engineering/graph-machine-learning-at-airbnb-f868d65f36ee
-https://dataconomy.com/2022/04/risks-and-benefits-of-artificial-intelligence/
-https://www.technologyreview.com/2022/04/13/1049763/a-deep-learning-algorithm-could-detect-earthquakes-by-filtering-out-city-noise
-https://news.mit.edu/2022/new-unsupervised-computer-vision-algorithm-stego-0421
-https://medium.com/@beenkim/beyond-interpretability-4bf03bbd9394
-https://www.argmin.net/2022/03/31/external-evaluations/
-https://towardsdatascience.com/no-magical-toothpaste-for-data-quality-cavities-76d21ff9278fhttps://www.prnewswire.com/news-releases/new-survey-reveals-one-third-of-businesses-are-exceeding-their-cloud-budgets-by-as-much-as-40-percent-301216394.html
-https://venturebeat.com/ai/how-ai-could-help-enterprises-to-reduce-data-storage-costs/
-https://scientistemily.substack.com/p/evolving-data-stack
-https://benn.substack.com/p/has-sql-gone-too-far
-https://blog.fennel.ai/p/real-world-recommendation-system
-https://hbr.org/2022/03/your-data-initiatives-cant-just-be-for-data-scientists
-https://www.spiceworks.com/tech/it-strategy/articles/making-ai-spending-count/
-https://www.datanami.com/2022/04/28/why-so-few-are-mastering-the-data-economy/
-https://www.washingtonpost.com/business/the-next-cybersecurity-crisis-poisoned-ai/2022/04/24/9615126e-c426-11ec-8cff-33b059f4c1b7_story.html
-https://netflixtechblog.com/evolution-of-ml-fact-store-5941d3231762
-https://shopifyengineering.myshopify.com/blogs/engineering/data-storytelling-shopify
-https://ericdataproduct.substack.com/p/making-data-actionable-the-immense
-https://www.crunchydata.com/blog/demystifying-database-performance-for-developers
-https://nautil.us/deep-learning-is-hitting-a-wall-238440/
-https://gradientflow.com/data-management-trends-you-need-to-know/
-https://www.quantamagazine.org/machine-learning-reimagines-the-building-blocks-of-computing-20220315/
-https://www.robdearborn.com/2022/03/13/organizing-and-scaling-an-effective-data-team/
-https://ai.googleblog.com/2022/03/robust-graph-neural-networks.html
-https://www.etsy.com/codeascraft/imbalance-detection-for-healthier-experimentation
-https://mlu-explain.github.io/precision-recall/
-https://shopifyengineering.myshopify.com/blogs/engineering/a-data-scientist-s-guide-to-measuring-product-success
-https://towardsdatascience.com/how-should-we-be-thinking-about-data-lineage-541ca5ab83d0
-https://hackmysql.com/post/book-2/
-https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01
-https://www.mihaileric.com/posts/mlops-is-a-mess/
-https://future.com/sql-needs-software-libraries/
-https://benn.substack.com/p/work-like-an-analyst
-https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/
-https://aws.amazon.com/blogs/big-data/how-jpmorgan-chase-built-a-data-mesh-architecture-to-drive-significant-value-to-enhance-their-enterprise-data-platform/
-https://www.quantamagazine.org/researchers-build-ai-that-builds-ai-20220125
-https://www.bbvaopenmind.com/en/technology/artificial-intelligence/introduction-to-ai-and-economics/amp/
-https://mdneuzerling.com/post/my-machine-learning-process-mistakes-included/
-https://mikkeldengsoe.substack.com/p/roi-of-data-work
-https://www.technologyreview.com/2021/10/26/1038643/ai-reinforcement-learning-digital-twins-can-solve-supply-chain-shortages-and-save-christmas
-https://benn.substack.com/p/the-future-of-operational-analytics
-https://netflixtechblog.com/interpreting-a-b-test-results-false-negatives-and-power-6943995cf3a8
+# Interesting Articles Written in 2022 
+
+* https://engineering.linkedin.com/blog/2022/one-stop-mlops-portal-at-linkedin
+* https://www.professionalsecurity.co.uk/news/interviews/ai-governance-gap/
+* https://scientistemily.substack.com/p/scaling-data-teams
+* https://locallyoptimistic.com/post/run-your-data-team-like-a-product-team/
+* https://eng.lyft.com/trino-open-source-infrastructure-upgrading-at-lyft-83f26b099fa
+* https://www.oreilly.com/radar/closer-to-agi/
+* https://mitsloan.mit.edu/ideas-made-to-matter/why-its-time-data-centric-artificial-intelligence
+* https://medium.com/compass-true-north/framing-feature-engineering-for-machine-learning-a-generative-model-of-home-likelihood-to-sell-f96f21d6d6d0
+* https://dataproducts.substack.com/p/the-existential-threat-of-data-quality
+* https://eugeneyan.com/writing/design-patterns/
+* https://www.economist.com/interactive/briefing/2022/06/11/huge-foundation-models-are-turbo-charging-ai-progress
+* https://engineering.linkedin.com/blog/2022/towards-data-quality-management-at-linkedin
+* https://locallyoptimistic.com/post/building-more-effective-data-teams-using-the-jtbd-framework
+* https://medium.com/airbnb-engineering/graph-machine-learning-at-airbnb-f868d65f36ee
+* https://dataconomy.com/2022/04/risks-and-benefits-of-artificial-intelligence/
+* https://www.technologyreview.com/2022/04/13/1049763/a-deep-learning-algorithm-could-detect-earthquakes-by-filtering-out-city-noise
+*https://news.mit.edu/2022/new-unsupervised-computer-vision-algorithm-stego-0421
+* https://medium.com/@beenkim/beyond-interpretability-4bf03bbd9394
+* https://www.argmin.net/2022/03/31/external-evaluations/
+* https://towardsdatascience.com/no-magical-toothpaste-for-data-quality-cavities-76d21ff9278f
+* https://www.prnewswire.com/news-releases new-survey-reveals-one-third-of-businesses-are-exceeding-their-cloud-budgets-by-as-much-as-40-percent-301216394.html
+* https://venturebeat.com/ai/how-ai-could-help-enterprises-to-reduce-data-storage-costs/
+* https://scientistemily.substack.com/p/evolving-data-stack
+* https://benn.substack.com/p/has-sql-gone-too-far
+* https://blog.fennel.ai/p/real-world-recommendation-system
+* https://hbr.org/2022/03/your-data-initiatives-cant-just-be-for-data-scientists
+* https://www.spiceworks.com/tech/it-strategy/articles/making-ai-spending-count/
+* https://www.datanami.com/2022/04/28/why-so-few-are-mastering-the-data-economy/
+* https://www.washingtonpost.com/business/the-next-cybersecurity-crisis-poisoned-ai/2022/04/24/9615126e-c426-11ec-8cff-33b059f4c1b7_story.html
+* https://netflixtechblog.com/evolution-of-ml-fact-store-5941d3231762
+* https://shopifyengineering.myshopify.com/blogs/engineering/data-storytelling-shopify
+* https://ericdataproduct.substack.com/p/making-data-actionable-the-immense
+* https://www.crunchydata.com/blog/demystifying-database-performance-for-developers
+* https://nautil.us/deep-learning-is-hitting-a-wall-238440/
+* https://gradientflow.com/data-management-trends-you-need-to-know/
+* https://www.quantamagazine.org/machine-learning-reimagines-the-building-blocks-of-computing-20220315/
+* https://www.robdearborn.com/2022/03/13/organizing-and-scaling-an-effective-data-team/
+* https://ai.googleblog.com/2022/03/robust-graph-neural-networks.html
+* https://www.etsy.com/codeascraft/imbalance-detection-for-healthier-experimentation
+* https://mlu-explain.github.io/precision-recall/
+* https://shopifyengineering.myshopify.com/blogs/engineering/a-data-scientist-s-guide-to-measuring-product-success
+* https://towardsdatascience.com/how-should-we-be-thinking-about-data-lineage-541ca5ab83d0
+* https://hackmysql.com/post/book-2/
+* https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01
+* https://www.mihaileric.com/posts/mlops-is-a-mess/
+* https://future.com/sql-needs-software-libraries/
+* https://benn.substack.com/p/work-like-an-analyst
+* https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/
+* https://aws.amazon.com/blogs/big-data/how-jpmorgan-chase-built-a-data-mesh-architecture-to-drive-significant-value-to-enhance-their-enterprise-data-platform/
+* https://www.quantamagazine.org/researchers-build-ai-that-builds-ai-20220125
+* https://www.bbvaopenmind.com/en/technology/artificial-intelligence/introduction-to-ai-and-economics/amp/
+* https://mdneuzerling.com/post/my-machine-learning-process-mistakes-included/
+* https://mikkeldengsoe.substack.com/p/roi-of-data-work
+* https://www.technologyreview.com/2021/10/26/1038643/ai-reinforcement-learning-digital-twins-can-solve-supply-chain-shortages-and-save-christmas
+* https://benn.substack.com/p/the-future-of-operational-analytics
+* https://netflixtechblog.com/interpreting-a-b-test-results-false-negatives-and-power-6943995cf3a8
