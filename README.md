@@ -25,7 +25,7 @@ In-direct Instruction and group work
 - AARRR Metrics 
 - Assessing root cause issues with metrics  
 
-[product.md](https://github.com/skeller01/repository/blob/master/file.md)  
+[Product Sense - Learn More](https://github.com/skeller01/data_projects_course/blob/main/product.md)  
 
 #### Check for Understanding 
 - Explain the main components of a logic model 
@@ -35,6 +35,8 @@ In-direct Instruction and group work
 - How can using data help inform new products or understand problems  
 - Influence Diagrams 
 - Writing good problem statements 
+
+[Data Sense - Learn More](https://github.com/skeller01/data_projects_course/blob/main/data.md)
 
 #### Check for Understanding 
 - Write influence diagram based on a data product 

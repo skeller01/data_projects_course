@@ -17,13 +17,17 @@ In-direct Instruction and group work
 - Ask people how they would get started 
 
 ### Teaching Activities 
-- Logic Models 
-- AARRR Metrics 
-- Assessing root cause issues with metrics  
+- How can using data help inform new products or understand problems  
+- Influence Diagrams 
+- Writing good problem statements
 
 #### Check for Understanding 
-- Explain the main components of a logic model 
-- What are the characteristics of good metrics 
+- Write influence diagram based on a data product 
+- Understand components of a good problem statement 
+
+## Conclusion 
+- Provide template for problem statement 
+- Talk about data discovery through data stewards 
 
 ### Assessment for Learning 
 - Practice problem from business case 
